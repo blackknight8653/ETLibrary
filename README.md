@@ -10,16 +10,16 @@ If you like this project please do not hesitate to spread the word about my work
 
 # Project Details
 
-# Basic Features
+## Basic Features
 1. Cleanup files in Wolfenstein: Enemy Territory Installation such as custom menu files, skinpacks, soundpacks, etc.
 2. Backup files in Wolfenstein: Enemy Territory Installation such as Profiles, ETKey, Mod Keys, etc.
 3. Restore files from backup into Wolfenstein: Enemy Territory Installation.
 4. Check Wolfenstein: Enemy Territory Installation for required files such as ETKey, etc.
 
-# Advanced Features
+## Advanced Features
 1. Delete Screenshots/Demos by _days/months/years from their creation date.
 
-# Developer Features
+## Developer Features
 1. Unpack .pk3 files for developers to view the file contents.
 2. Build .pk3 files.
 
