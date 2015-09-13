@@ -25,14 +25,14 @@ If you like this project please do not hesitate to spread the word about my work
 
 More features might be added in the future. The above are just some of the features which would be included in ETLibrary.
 
-I will be compiling a wiki on how to use the library in your project.
+You can view ETLibrary Documentation here: [Link](https://github.com/blackknight8653/ETLibrary/wiki)
 
 # Support
 Have a question, suggestions or encounter a bug? You can either create a issue ticket on this project's Github page or contact me at the following platforms:
 
-Email: teamarystal@gmail.com
-Twitter: https://twitter.com/TeamArystal
-Website: Coming Soon
+Email: teamarystal@gmail.com  
+Twitter: https://twitter.com/TeamArystal  
+Website: Coming Soon  
 
 # Credits
 I will update the credits when I have time.
