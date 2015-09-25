@@ -1,5 +1,5 @@
 # ETLibrary
-A Wolfenstein: Enemy Territory Library, created by blackknight8653, for developers to use in their own third party programs to perform certain functions. This can help save developers time spending on coding certain functions which are already included in this library and focus on other aspects of their projects.
+A Wolfenstein: Enemy Territory Library, created by blackknight8653, for developers to use in their own third party programs to perform certain functions. ETLibrary is written in Visual Basic. This can help save developers time spending on coding certain functions which are already included in this library and focus on other aspects of their projects.
 
 # Author's Note
 This library is currently still being developed hence, some features have not been included. I am doing this during my free time and also based on inspiration. This project started as I, having created some third party tools for Wolfenstein: Enemy Territory, realised that over the course of many of my projects, a huge amount of time was spent recoding features which I have already coded in my previous projects. This results in the reduced in productivity as the time used could be better spent on creating new features for my projects. ETLibrary is the solution and would include features which developers might want to include in their program.
